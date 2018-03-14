@@ -3,6 +3,7 @@
 //Created:                      11/15/2017
 //Source File:                  RBT.h
 //Description:
+//  Template for the Red Black Tree main cpp file.
 //
 //Editor:                          Emacs
 //*******************************************************
