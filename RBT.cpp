@@ -3,6 +3,10 @@
 // Created:                      11/15/2017
 // Source File:                  TNode.cpp
 // Description:
+//  Main file for the Red Black Tree.
+//
+//  Uses a modified binary tree to create a Red Black tree
+//  for storing any type of data. 
 //
 // Editor:                          Emacs
 //*******************************************************
