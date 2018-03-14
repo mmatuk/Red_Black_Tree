@@ -1,7 +1,7 @@
 //*******************************************************
 // Author:                       Matt Matuk
 // Created:                      11/15/2017
-// Source File:                  TNode.cpp
+// Source File:                  RBT.cpp
 // Description:
 //  Main file for the Red Black Tree.
 //
